@@ -1,0 +1,8 @@
+steps to use:
+  copy code.
+  add to terminal .
+  give permission (chmod +x sortsubdomain.sh).
+  now run (./sortsubdomain.sh {required site}).
+  you will see a Domains Directory created in system.
+  open it and you will find the given site named directory.
+  open that Directory and output will be in live_subdomain.txt.
